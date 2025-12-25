@@ -9,3 +9,8 @@
 {
  background: linear-gradient(to right, #FF4B32, #FF9A01);
 }
+.border1
+{
+    border: 1px solid;
+ border-color:linear-gradient(to right, #FF4B32, #FF9A01);
+}
