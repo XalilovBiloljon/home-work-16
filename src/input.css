@@ -2,6 +2,9 @@
 .liner{
     background: linear-gradient(#12121200, #12121200,#02030B);
 }
+.seriy{
+    background: linear-gradient( to right, #344949, #63909C,);
+}
 .bgoreng
 {
  background: linear-gradient(to right, #FF4B32, #FF9A01);
